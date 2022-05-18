@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Collections.Generic
-using System.Text
+using System.Collections.Generic;
+using System.Text;
 
 namespace TournamentTracker.TrackerLibrary
 {
@@ -13,5 +13,3 @@ namespace TournamentTracker.TrackerLibrary
         public List<List<MatchupModel>> Rounds { get; set; } = new List<List<MatchupModel>>();
     }
 }
-
-
